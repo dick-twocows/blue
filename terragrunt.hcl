@@ -1,6 +1,6 @@
 
 terraform {
-    source = "git::git@github.com/dick-twocows/blue-green/modules.git"
+    source = "github.com/dick-twocows/blue-green//modules"
 }
 
 inputs = {
